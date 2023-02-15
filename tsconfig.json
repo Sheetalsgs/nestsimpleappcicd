@@ -16,9 +16,10 @@
     "noImplicitAny": false,
     "strictBindCallApply": false,
     "forceConsistentCasingInFileNames": false,
-    "noFallthroughCasesInSwitch": false,
-    "exclude": "./cypress.config.ts"
-  }
+    "noFallthroughCasesInSwitch": false
+  },
+  
+  "exclude": ["cypress"], 
   
 }
 
